@@ -27,3 +27,5 @@ Getting Started
 My Notes
 ---------------
 Project: Tip calculator
+In thi project we started by getting the code template from the developer android page
+and then we modified to accomplish the functionality of the tip calculator.
