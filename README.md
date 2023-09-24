@@ -29,3 +29,7 @@ My Notes
 Project: Tip calculator
 In thi project we started by getting the code template from the developer android page
 and then we modified to accomplish the functionality of the tip calculator.
+The project is divided in two sections, one is the basic configuration of the app
+where the tip amount is hardcoded, and the used has not control over it.
+The second part is adding the options for the user to add calculate a desired amount
+for the tip, and also to have the option to round up the tip amount.
